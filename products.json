@@ -1,0 +1,303 @@
+{
+    "contas": [
+        {
+            "nome": "MINECRAFT ALTERNATIVO",
+            "imagem": "./assets/images/minecraft_alternativo_blastcraft.png",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " Acesso privado",
+                " Pode Alterar a skin",
+                " Chances de vir Capa",
+                " Acesso a todos os servidores",
+                " Joga nos Servidores originais",
+                " Chance de ter VIP no Hypixel",
+                " Contém pergunta de segurança"
+            ],
+            "valor": 6.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5JC54v",
+                "pagseguro": "https://pag.ae/7XX5JC54v",
+                "pix": "https://pag.ae/7XX5JC54v",
+                "boleto": "https://pag.ae/7XX5JC54v"
+            }
+        },
+        {
+            "nome": "MINECRAFT FULL ACESSO",
+            "imagem": "./assets/images/minecraft_completo_blastcraft.png",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " Acesso total a conta",
+                " Pode Alterar o email",
+                " Pode Alterar o nick",
+                " Pode Alterar a skin",
+                " Pode Alterar a senha",
+                " Sem Banimentos em servidores",
+                " Nenhuma pergunta de segurança"
+            ],
+            "valor": 59.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5KugS5",
+                "pagseguro": "https://pag.ae/7XX5KugS5",
+                "pix": "https://pag.ae/7XX5KugS5",
+                "boleto": "https://pag.ae/7XX5KugS5"
+            }
+        },
+        {
+            "nome": "CAPA OPTIFINE",
+            "imagem": "./assets/images/optifine_capa_blastcraft.png",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " Entrega imediata",
+                " Ativação no seu nick",
+                " Você pode personalizar a capa quando e como quiser",
+                " A capa será visível para todos que utilizarem o mod da Optifine",
+                " Vários tipos de capas disponíveis para usar"
+            ],
+            "valor": 44.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5KFXhJ",
+                "pagseguro": "https://pag.ae/7XX5KFXhJ",
+                "pix": "https://pag.ae/7XX5KFXhJ",
+                "boleto": "https://pag.ae/7XX5KFXhJ"
+            }
+        },
+        {
+            "nome": "VAGA",
+            "imagem": "./assets/images/blastcraft_optifine_minecraft+original.jpg",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " Acesso total a conta",
+                " Pode Alterar o nick",
+                " Pode Alterar a skin",
+                " Pode Alterar a senha",
+                " Acessa todos servidores originais",
+                " Sem Banimentos em servidores",
+                " Chance de ter Capa e/ou VIP no Hypixel"
+            ],
+            "valor": 99.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "mercado-pago": "",
+                "paypal": "",
+                "pix": "",
+                "boleto": ""
+            }
+        },
+        {
+            "nome": "2X MINECRAFT FULL ACESSO [PROMOÇÃO]",
+            "imagem": "./assets/images/promoção_minecraft_original_blastcraft.png",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " 2x contas de Minecraft Original Completo",
+                " Chance de ter Capa e/ou VIP no Hypixel",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto tem 35% de chance de já está migrado para microsoft e com capa."
+            ],
+            "valor": 99.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5LKmxR",
+                "pagseguro": "https://pag.ae/7XX5LKmxR",
+                "pix": "https://pag.ae/7XX5LKmxR",
+                "boleto": "https://pag.ae/7XX5LKmxR"
+            }
+        },
+        {
+            "nome": "FULL ACESSO + CAPA DA OPTIFINE [PROMOÇÃO]",
+            "imagem": "./assets/images/promoção_minecraft_optifine_blastcraft.png",
+            "imagem_fora_do_card": true,
+            "vantagens": [
+                " 1x conta de Minecraft Original com Capa da Optifine",
+                " Produto vitalício (Produto com duração eterna, para sempre)",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto poderá ser migrado na atualização, receberá a capa da mojang na migração"
+            ],
+            "valor": 94.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartao-de-credito": "https://pag.ae/7XX5M8AEr",
+                "pagseguro": "https://pag.ae/7XX5M8AEr",
+                "pix": "https://pag.ae/7XX5M8AEr",
+                "boleto": "https://pag.ae/7XX5M8AEr"
+            }
+        }
+    ],
+    "conexao": [
+        {
+            "nome": "REGEDIT",
+            "imagem": "https://media1.tenor.com/images/87e28816b0a89e83bd9abeb9fc1948a3/tenor.gif",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                " Knockback reduzido",
+                " HitDetection melhorada",
+                " Melhore sua conexão ao extremo",
+                " Ping em servidores gringos bons"
+            ],
+            "valor": 14.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5Mpqb6",
+                "pagseguro": "https://pag.ae/7XX5Mpqb6",
+                "pix": "https://pag.ae/7XX5Mpqb6",
+                "boleto": "https://pag.ae/7XX5Mpqb6"
+            }
+        },
+        {
+            "nome": "VAGA",
+            "imagem": "./assets/images/promoção_minecraft_original_blastcraft.png",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                " 2x contas de Minecraft Original Completo",
+                " Chance de ter Capa e/ou VIP no Hypixel",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto tem 35% de chance de já está migrado para microsoft e com capa."
+            ],
+            "valor": 119.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "mercado-pago": "https://mpago.la/2vmVh6x",
+                "pix": "https://mpago.la/2vmVh6x"
+            }
+        },
+        {
+            "nome": "VAGA",
+            "imagem": "./assets/images/promoção_minecraft_vip_blastcraft.png",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                " 1x conta de Minecraft Original com VIP no servidor Hypixel",
+                " Ranked aleatório no Servidor do Hypixel",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto tem 35% de chance de já está migrado para microsoft e com capa."
+            ],
+            "valor": 69.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "mercado-pago": "https://mpago.la/2vmVh6x",
+                "pix": "https://mpago.la/2vmVh6x"
+            }
+        },
+        {
+            "nome": "VAGA",
+            "imagem": "./assets/images/minecraft_alternativo_turbo_blastcraft.jpg",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                " Produto vitalício (Produto com duração eterna, para sempre)",
+                " Chance de ter VIPs no Servidor Hypixel",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto poderá ser migrado na atualização, receberá a capa da mojang na migração"
+            ],
+            "valor": 6.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "mercado-pago": "https://mpago.la/29VDaCk",
+                "paypal": "https://mpago.la/29VDaCk",
+                "pix": "https://mpago.la/29VDaCk",
+                "boleto": "https://mpago.la/29VDaCk"
+            }
+        },
+        {
+            "nome": "VAGA",
+            "imagem": "./assets/images/minecraft_alternativo_turbo_blastcraft.jpg",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                " Produto vitalício (Produto com duração eterna, para sempre)",
+                " Chance de ter VIPs no Servidor Hypixel",
+                " Sem Banimentos em servidores",
+                " Apenas sua (Privada)",
+                " Suporta skins e mods criados por terceiros",
+                " Acessa todos servidores originais",
+                " Este produto poderá ser migrado na atualização, receberá a capa da mojang na migração"
+            ],
+            "valor": 6.99,
+            "disponivel": false,
+            "metodos_de_pagamento": {
+                "mercado-pago": "https://mpago.la/29VDaCk",
+                "paypal": "https://mpago.la/29VDaCk",
+                "pix": "https://mpago.la/29VDaCk",
+                "boleto": "https://mpago.la/29VDaCk"
+            }
+        }
+    ],
+    "entreterimento": [
+        {
+            "nome": "DISCORD NITRO GAMING",
+            "imagem": "./assets/images/nitro-gif.gif",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                "Duração de 1 mês",
+                "Faça o upload de um avatar gif",
+                "Tag do Discord personalizada",
+                "Use emoticons personalizados em qualquer lugar",
+                "Compartilhamento de tela de qualidade superior",
+                "Aumente o limite de upload de arquivos de 8mb para 50mb"
+            ],
+            "valor": 18.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5MJUg6",
+                "pagseguro": "https://pag.ae/7XX5MJUg6",
+                "pix": "https://pag.ae/7XX5MJUg6",
+                "boleto": "https://pag.ae/7XX5MJUg6"
+            }
+        },
+        {
+            "nome": "NETFLIX PREMIUM",
+            "imagem": "./assets/images/netflix-netflix-startup.gif",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                "Duração de 1 mês",
+                "Algumas contas vem com mais de 1 mês bônus",
+                "4 Telas + Ultra HD (4K)",
+                "Assista ilimitadamente em Smart TVs, PlayStation, Xbox, Chromecast, Apple TV, aparelhos de Blu-ray e outros aparelhos",
+                "Baixe suas séries e filmes favoritos e assista offline"
+            ],
+            "valor": 16.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5NcBM7",
+                "pagseguro": "https://pag.ae/7XX5NcBM7",
+                "pix": "https://pag.ae/7XX5NcBM7",
+                "boleto": "https://pag.ae/7XX5NcBM7"
+            }
+        },
+        {
+            "nome": "SPOTIFY PREMIUM",
+            "imagem": "./assets/images/spotify.gif",
+            "imagem_fora_do_card": false,
+            "vantagens": [
+                "Código exclusivo de Spotify Premium, ativado diretamente na sua conta durante 1 ano",
+                "Toque qualquer música, a qualquer hora, em qualquer dispositivo",
+                "Baixe músicas para ouvir offline",
+                "Sem propagandas, somente músicas, sem interrupções",
+                "Pule as músicas sem limitações",
+                " Alta qualidade de áudio"
+            ],
+            "valor": 25.99,
+            "disponivel": true,
+            "metodos_de_pagamento": {
+                "cartão-de-credito": "https://pag.ae/7XX5NsVXa",
+                "pagseguro": "https://pag.ae/7XX5NsVXa",
+                "pix": "https://pag.ae/7XX5NsVXa",
+                "boleto": "https://pag.ae/7XX5NsVXa"
+            }
+        }
+    ]
+}

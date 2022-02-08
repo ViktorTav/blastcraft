@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="boleto.svg"
+   width="32"
+   height="20"
+   inkscape:export-filename="E:\Users\vikto\Downloads\SITE\assets\images\boleto.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="13.350176"
+     inkscape:cx="14.082211"
+     inkscape:cy="12.584104"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:pagecheckerboard="0"
+     inkscape:lockguides="false"
+     height="13px" />
+  <path
+     d="M 1.4644714,1.9567239 H 2.0709523 V 18.060027 H 1.4644714 Z m 1.2129621,0 H 3.2839138 V 18.060027 H 2.6774335 Z m 3.6414614,0 H 6.9253764 V 18.060027 H 6.3188949 Z m 11.8051401,0 h 0.606479 V 18.060027 h -0.606479 z m 3.946631,0 h 0.606481 V 18.060027 h -0.606481 z m 3.826885,0 h 0.606481 V 18.060027 h -0.606481 z m 0.986338,0 H 27.49037 V 18.060027 h -0.606481 z m 0.987622,0 h 0.606481 V 18.060027 h -0.606481 z m 1.109952,0 h 0.60648 V 18.060027 h -0.60648 z m 1.109951,0 h 0.606479 V 18.060027 h -0.606479 z m -19.767942,0 h 0.606482 V 18.060027 h -0.606482 z m -6.0686725,0 H 5.3467229 V 18.060027 H 4.2547995 Z m 7.2069525,0 h 1.091924 V 18.060027 h -1.091924 z m 5.060449,0 h 1.091925 V 18.060027 h -1.091925 z m 2.590742,0 h 1.091925 V 18.060027 h -1.091925 z m 4.071536,0 h 1.091929 V 18.060027 h -1.091929 z m -15.652621,0 H 9.7157043 V 18.060027 H 7.531858 Z m 5.660489,0 h 1.698405 V 18.060027 h -1.698405 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke-width:1.28764"
+     inkscape:export-filename="G:\Users\suitedoalex\sites\boleto-logo-5.png"
+     inkscape:export-xdpi="1.4072399"
+     inkscape:export-ydpi="1.4072399"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

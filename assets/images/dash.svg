@@ -1,0 +1,16 @@
+<svg width="32" height="10.000000000000002" xmlns="http://www.w3.org/2000/svg" stroke="null" style="vector-effect: non-scaling-stroke;">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g stroke="null">
+  <title stroke="null">background</title>
+  <rect stroke="null" fill="none" id="canvas_background" height="12" width="34" y="-1" x="-1"/>
+ </g>
+ <g stroke="null">
+  <title stroke="null">Layer 1</title>
+  <g stroke="null" id="svg_7">
+   <g stroke="null" id="svg_5">
+    <path stroke="null" fill="#ffffff" id="svg_6" d="m27.699962,3.204758c1.896194,-0.008821 3.43008,0.914974 3.426132,2.063923c-0.004442,1.148501 -1.544992,2.086798 -3.44094,2.095768c-7.819488,0.03319 -15.639469,0.06638 -23.458957,0.099571c-1.895947,0.00897 -3.43008,-0.914974 -3.426132,-2.063774c0.004442,-1.148651 1.545239,-2.086947 3.441187,-2.095768c7.819488,-0.03319 15.639469,-0.06638 23.45871,-0.09972l0,0z" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,60 @@
+a.terms-and-conditions:hover{
+	cursor: pointer;
+}
+
+div#terms-and-conditions-window{
+    position: fixed;
+    width: 40vw;
+    height: 90vh;
+    background-color: white;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.116);
+    display: flex;
+    padding: 10px 30px; 
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 20px;
+    overflow: hidden;
+    z-index: 855;
+    left: 50vw; top: 50vh;
+    transform: translate(-50%,-50%);
+}
+
+div#terms-and-conditions-header{
+    display: flex;
+    align-items: center;
+    padding: 10px 0;
+}
+
+div#terms-and-conditions-window button{
+	border: none;
+	background-color: transparent;
+}
+
+button#terms-and-conditions-window-close{
+    position: absolute;
+    right: 30px;  
+    font-size: 1.3rem;
+}
+
+div#terms-and-conditions-window-content{
+    padding: 0 40px 40px 0;
+    width: 100%;
+    height: 90%;
+    overflow-y: auto;
+}
+
+div#terms-and-conditions-window-content h3{
+    margin: 20px 0 10px 0;
+}
+
+@media screen and (max-width:1024px){
+    div#terms-and-conditions-window{
+        width: 95vw; height: 95vh;
+    }
+}
+
+@media screen and (max-height:600px){
+    div#terms-and-conditions-window-content{
+        height: 90%;
+    }
+}

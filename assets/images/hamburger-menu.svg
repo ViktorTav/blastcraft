@@ -1,0 +1,19 @@
+<svg width="263" height="211" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with UXWing SVG Editor - https://uxwing.com/svg-icon-editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="213" width="265" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_7">
+   <g transform="matrix(1.9290436566410705,0,0,1.9290436566410705,0,0) " id="svg_5">
+    <path fill="#ffffff" id="svg_6" d="m17.356195,2.62662l102.144,0c5.703,0 10.367,4.665 10.367,10.367l0,0c0,5.702 -4.664,10.368 -10.367,10.368l-102.144,0c-5.702,0 -10.368,-4.665 -10.368,-10.367l0,0c0,-5.703 4.666,-10.368 10.368,-10.368l0,0zm0,82.875l102.144,0c5.703,0 10.367,4.665 10.367,10.367l0,0c0,5.702 -4.664,10.367 -10.367,10.367l-102.144,0c-5.702,0 -10.368,-4.665 -10.368,-10.367l0,0c0,-5.702 4.666,-10.367 10.368,-10.367l0,0zm0,-41.437l102.144,0c5.703,0 10.367,4.665 10.367,10.367l0,0c0,5.702 -4.664,10.368 -10.367,10.368l-102.144,0c-5.702,0 -10.368,-4.666 -10.368,-10.368l0,0c0,-5.702 4.666,-10.367 10.368,-10.367l0,0z" clip-rule="evenodd" fill-rule="evenodd"/>
+   </g>
+  </g>
+ </g>
+</svg>

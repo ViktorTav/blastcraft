@@ -1,0 +1,14 @@
+[
+    {
+        "link": "https://discord.gg/arku6kB9Z2",
+        "faClass": "fab fa-discord"
+    },
+    {
+        "link": "mailto:suporte@blastcraft.com.br",
+        "faClass": "fas fa-envelope"
+    },
+    {
+        "link": "https://twitter.com/BlastCraftLoja",
+        "faClass": "fab fa-twitter"
+    }
+]

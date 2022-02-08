@@ -1,0 +1,34 @@
+{
+    "particles": {
+        "number": {
+            "value": 80
+        },
+        "shape": {
+            "type": "image",
+            "image": {
+                "src": "./assets/images/snow.png"
+            }
+        },
+        "size": {
+            "value": 10,
+            "random": true
+        },
+        "move": {
+            "direction": "bottom",
+            "speed": 3
+        },
+        "line_linked": {
+            "enable": false
+        }
+    },
+    "interactivity": {
+        "events": {
+            "onhover": {
+                "enable": false
+            },
+            "onclick": {
+                "enable": false
+            }
+        }
+    }
+}

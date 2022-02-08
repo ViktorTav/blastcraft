@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Quanto tempo levaravá para minha conta chegar?",
+        "conteudo": "Nosso site conta com um sistema de entrega automático. Assim que o pagamento é aprovado é enviado um email para você com as informações do jogo."
+    },
+    {
+        "titulo": "Comprei o jogo e ainda não chegou?",
+        "conteudo": "A entrega é feita através de nosso sistema após a aprovação. Caso não tenha uma conta em estoque, o envio é feito manualmente e pode demorar um pouco. Nosso prazo máximo é de 48h, se ultrapassar esse tempo nos contate pela nossa página de contato."
+    },
+    {
+        "titulo": "Eu corro algum risco de perder a minha conta?",
+        "conteudo": "Isso de fato acontece nas outras lojas, mas não precisa ter medo disso na BlastCraft. Nossas contas são Originais e serão migradas para seu e-mail, é impossível de perder sua conta."
+    },
+    {
+        "titulo": "Quais as formas de pagamentos aceitas?",
+        "conteudo": "É possível realizar a compra por Boleto Bancário, Cartões de Crédito, Pix e Débito Online."
+    },
+    {
+        "titulo": "É seguro comprar?",
+        "conteudo": "Sim. Todo ambiente do site utiliza a criptografia 256 bits. Todas as informações que são transmitidas pelo site passam a ser criptografadas."
+    },
+    {
+        "titulo": "Garantia e suporte?",
+        "conteudo": "Cada conta possui 30 dias de garantia e suporte completo, podendo utilizar nossos serviços para qualquer dúvida ou problemas que tenha. Por isso recomendamos que mantenham seus dados seguros e protegidos o quanto antes para evitar problemas após os 30 dias."
+    }
+]

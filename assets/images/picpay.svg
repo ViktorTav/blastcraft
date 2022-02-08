@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg"
+   viewBox="0 0 19.999999 10.000001"
+   version="1.1"
+   sodipodi:docname="picpay.svg"
+   width="20"
+   height="10"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata9">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="837"
+     id="namedview5"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="19.658915"
+     inkscape:cx="15.260252"
+     inkscape:cy="4.3746056"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     inkscape:pagecheckerboard="0" />
+  <path
+     inkscape:connector-curvature="0"
+     class="logo"
+     d="m 4.8372969,6.7379249 h 0.855128 V 4.2462578 h -0.855128 z m 1.15,-4.1871804 H 5.4122967 V 3.1257444 H 5.9872969 Z M 2.75845,2.8308727 H 1.9328086 v 0.7224359 h 0.7666673 c 0.4865383,0 0.7666668,0.2358975 0.7666668,0.6782052 0,0.4423081 -0.2801285,0.6929491 -0.7666668,0.6929491 H 1.9328086 V 3.5680522 H 1.0776807 V 6.7379249 H 1.9328086 V 5.6468992 h 0.8108983 c 0.9878203,0 1.5628201,-0.5307695 1.5628201,-1.4448725 0,-0.8551283 -0.560256,-1.371154 -1.548077,-1.371154 z M 6.5622964,1.9757444 H 4.8372969 V 3.7007445 H 6.5622964 Z M 6.282168,3.4058728 H 5.1321682 V 2.2558727 H 6.282168 Z M 11.29499,2.8308727 h -0.78141 v 0.7224359 h 0.73718 c 0.486539,0 0.766665,0.2358975 0.766665,0.6782052 0,0.4423081 -0.280126,0.6929491 -0.766665,0.6929491 H 10.51358 V 3.5680522 H 9.6584504 V 6.7379249 H 10.51358 V 5.6468992 h 0.78141 c 0.98782,0 1.56282,-0.5307695 1.56282,-1.4448725 0,-0.8551283 -0.575,-1.371154 -1.56282,-1.371154 z m 7.180128,0.9141027 -0.737179,1.8576929 -0.73718,-1.8576929 h -0.884616 l 1.179487,2.9929495 -0.45705,1.1352568 h 0.899359 l 1.621795,-4.1282063 z m -3.833333,-0.014743 c -0.516026,0 -0.914103,0.1179488 -1.356411,0.3391026 l 0.265385,0.5897439 c 0.309615,-0.1769231 0.619231,-0.2653846 0.899359,-0.2653846 0.412821,0 0.619232,0.176923 0.619232,0.501282 v 0.058974 h -0.825642 c -0.73718,0 -1.135257,0.3391026 -1.135257,0.8993593 0,0.5455129 0.383333,0.9288463 1.032051,0.9288463 0.412821,0 0.707693,-0.1474359 0.943591,-0.398077 v 0.3243585 h 0.840385 V 4.7622833 C 15.894996,4.1283087 15.437939,3.7302317 14.641785,3.7302324 Z m 0.50128,2.0051289 c -0.08846,0.2506411 -0.3391,0.4570514 -0.692947,0.4570514 -0.294872,0 -0.471795,-0.1474359 -0.471795,-0.3833334 0,-0.2358974 0.162179,-0.3391029 0.486539,-0.3391029 h 0.678203 z m -7.2685886,0.353846 c -0.412821,0 -0.7076916,-0.324359 -0.7076916,-0.8108978 0,-0.4717949 0.2948706,-0.7961539 0.7076916,-0.7961539 0.294872,0 0.5160256,0.1179488 0.6782058,0.324359 L 9.1276811,4.3936935 C 8.8622964,3.9956162 8.4052455,3.7597188 7.8302452,3.7597188 6.9308868,3.7449751 6.3116555,4.3642063 6.3116555,5.278309 c 0,0.914103 0.6192313,1.5185901 1.5185897,1.5185901 0.6192317,0 1.0762817,-0.2506409 1.3269238,-0.6634614 L 8.5674248,5.7353607 C 8.419989,5.9712581 8.1840922,6.0892068 7.8744764,6.0892073 Z"
+     id="path2-5-0"
+     style="fill:#21c25e;fill-opacity:1;stroke-width:0.147436"
+     inkscape:export-filename="C:\Users\suitedoalex\sites\picpay-logo-15.png"
+     inkscape:export-xdpi="27.367397"
+     inkscape:export-ydpi="27.367397" />
+</svg>
